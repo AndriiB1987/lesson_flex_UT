@@ -1,0 +1,87 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+.box-list {
+    height: 3%;
+    display: flex;
+    justify-content: center;    
+}
+.box {
+    padding: 2px;
+    flex-basis: 120px;
+    height: 10px;
+    font-weight: bolder;
+    text-align-last: center;
+}
+.box1 {
+    padding: 2px;
+    flex-basis: 150px;
+    height: 10px;
+    font-weight: bolder;
+    text-align-last: center;
+}
+.banner {
+    display: flex;
+    height: 200px;
+    width: 100%;
+    background:#8b0f19;
+    text-align: center;
+}
+.btn_allSection {
+    padding-top: 75px;
+    padding-left: 5px;
+    flex-basis: 20px;
+}
+.part_ofTheBtn {
+    margin: 2pt;
+    height: 4px;
+    width: 20px;
+    background: rgb(255, 255, 255);
+}
+.txtAllSections {
+    padding-top: 77px;
+    padding-left: 5px;
+    flex-basis: 450px;
+    text-align: left;
+    color: ivory;
+} 
+.boxU{
+    font-size:35px;
+    text-align:center;
+}
+.boxG{
+    font-size:10px;
+    text-align:center;
+}
+.textTitle{
+    flex-basis: 700px;
+    padding: 66px;
+    font-size:35px;
+    text-align:center;
+    color: ivory;
+}
+.txtLang  {
+    padding-top: 77px;
+    padding-right: 55px;
+    flex-basis: 450px;
+    text-align: right;
+    color: ivory;}
+.clubUT  {                    
+    height: 30px;
+    width: 80px;
+    padding-top: 13px;
+    margin-top: 46pt;
+    margin-right: 15pt;
+    flex-basis: 100px;
+    color: ivory;
+    background: rgb(196, 6, 6);
+    border: 2px solid white;
+    border-radius: 15px;
+    text-align: center;
+}
+.box-list1 {
+    height: 2%;
+    display: flex;
+    justify-content: center;    
+}
